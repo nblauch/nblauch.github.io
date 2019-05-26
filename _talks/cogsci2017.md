@@ -12,7 +12,7 @@ citation: 'Blauch N, Aminoff E, Tarr MJ. 2017. Functionally localized representa
 information: insight from simulations of deep convolutional neural networks. 39th Annual Proceedings of the Cognitive Science Society.'
 ---
 
-<object data="/files/cogsci_talk_final_blauch.pdf" type="application/pdf" width="700px" height="700px">
+<object data="/files/cogsci_talk_final_blauch.pdf" type="application/pdf" width="700px" height="400">
     <embed src="http://nblauch.github.io/files/cogsci_talk_final_blauch.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://nblauch.github.io/files/cogsci_talk_final_blauch.pdf">Download PDF</a>.</p>
     </embed>
