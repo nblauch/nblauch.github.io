@@ -17,9 +17,6 @@ I am a 1st-year PhD Student in [Neural Computation](http://compneuro.cmu.edu/) i
 
 My overarching research approach aims to understand neural mechanisms for perception and cognition through the lens of computation. To that end, I combine neuroimaging work aimed at explicating the function of large scale neural systems for perception and cognition, behavioral work exploring the fine-grained details of human perceptual performance, and computational modeling work to explore abstract computational hypotheses as well as to link specific hypotheses about brain mechanisms with behavior. One current projects involves using deep convolutional neural networks as a testbed for exploring the effects of visual familiarity on a naturalistic face verification task of familiar and unfamiliar exemplars. In another project, I am using the feature activation space of a convolutional network to analyze brain representations for objects and scenes in order to understand their functional overlap.
 
-Before starting my Ph.D., I received a Bachelor of Science degree in [Cognitive Computational Neuroscience](https://www.umass.edu/bdic/) from the University of Massachusetts, Amherst, where I did undergraduate honors research with David Huber. I was also lucky to do summer research in visual psychophysics with Denis Pelli at NYU and in computational vision with Michael Tarr and Elissa Aminoff at CMU. I stayed in Amherst for a year after graduation to work as a post-baccalaureate lab manager in the [Computational Memory and Perception Lab](https://people.umass.edu/cmap-lab/index.html) with Rosie Cowell and then returned to CMU to begin my Ph.D.
-
-
 <!-- <p align="left">
   <img height="200" src="/images/mountain_selfie.jpeg">
 </p>
