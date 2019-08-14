@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a 2nd-year PhD Student in [Neural Computation](http://compneuro.cmu.edu/) in the [Center for the Neural Basis of Cognition](http://www.cnbc.cmu.edu/) at Carnegie Mellon University. I am supervised by Professors [David Plaut](http://www.cnbc.cmu.edu/~plaut/) and [Marlene Behrmann](http://www.cnbc.cmu.edu/~behrmann/) within the [Department of Psychology](https://www.cmu.edu/dietrich/psychology/) and am currently supported by a Carnegie Mellon Neuroscience Institute Presidential Fellowship.
+I am a 2nd-year PhD Student in [Neural Computation](http://compneuro.cmu.edu/) in the [Center for the Neural Basis of Cognition](http://www.cnbc.cmu.edu/) at Carnegie Mellon University. I am advised by Professors [David Plaut](http://www.cnbc.cmu.edu/~plaut/) and [Marlene Behrmann](http://www.cnbc.cmu.edu/~behrmann/) in the Visual Cognition group within the [Department of Psychology](https://www.cmu.edu/dietrich/psychology/).
 
 <p align="center">
   about
@@ -17,7 +17,7 @@ I am a 2nd-year PhD Student in [Neural Computation](http://compneuro.cmu.edu/) i
   me
 </p>
 
-I am interested in perception and cognition, and more specifically, their neural and computational bases. My research combines neuroimaging work aimed at explicating the function of large scale neural systems for perception and cognition, behavioral work exploring the fine-grained details of human perceptual performance, and computational modeling work to interpet empirical results, guide future experiments, and provide formal theoretical framework.
+I am interested in perception and cognition, and more specifically, their neural and computational bases. My research combines neuroimaging work aimed at explicating the function of large scale neural systems for perception and cognition, behavioral work exploring the fine-grained details of human perceptual performance, and computational modeling work to interpret empirical results, guide future experiments, and provide formal theoretical framework.
 
 Some projects I am actively engaged in include:
 - modeling expertise and familiarity effects in visual face and object recognition with convolutional neural networks
