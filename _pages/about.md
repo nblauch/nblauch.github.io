@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Understanding neural mechanisms of perception"
+title: "About me"
 excerpt: ""
 author_profile: true
 redirect_from:
@@ -9,13 +9,20 @@ redirect_from:
 ---
 
 
-I am a 1st-year PhD Student in [Neural Computation](http://compneuro.cmu.edu/) in the [Center for the Neural Basis of Cognition](http://www.cnbc.cmu.edu/) at Carnegie Mellon University. I am supervised by Professors [David Plaut](http://www.cnbc.cmu.edu/~plaut/) and [Marlene Behrmann](http://www.cnbc.cmu.edu/~behrmann/) within the [Department of Psychology](https://www.cmu.edu/dietrich/psychology/).
+I am a 2nd-year PhD Student in [Neural Computation](http://compneuro.cmu.edu/) in the [Center for the Neural Basis of Cognition](http://www.cnbc.cmu.edu/) at Carnegie Mellon University. I am supervised by Professors [David Plaut](http://www.cnbc.cmu.edu/~plaut/) and [Marlene Behrmann](http://www.cnbc.cmu.edu/~behrmann/) within the [Department of Psychology](https://www.cmu.edu/dietrich/psychology/) and am currently supported by a Carnegie Mellon Neuroscience Institute Presidential Fellowship.
 
 <p align="center">
+  about
   <img width="300" src="/images/brain.png" alt="Me">
+  me
 </p>
 
-My overarching research interest is to understand neural mechanisms for perception and cognition through the lens of computation. To that end, I combine neuroimaging work aimed at explicating the function of large scale neural systems for perception and cognition, behavioral work exploring the fine-grained details of human perceptual performance, and computational modeling work to explore abstract computational hypotheses as well as to link specific hypotheses about brain mechanisms with behavior. One current project involves using deep convolutional neural networks as a testbed for exploring the effects of visual familiarity on a naturalistic face verification task of familiar and unfamiliar exemplars. In another project, I am using the feature activation space of a convolutional network to analyze brain representations for objects and scenes in order to understand their functional overlap. 
+I am interested in perception and cognition, and more specifically, their neural and computational bases. My research combines neuroimaging work aimed at explicating the function of large scale neural systems for perception and cognition, behavioral work exploring the fine-grained details of human perceptual performance, and computational modeling work to interpet empirical results, guide future experiments, and provide formal theoretical framework.
+
+Some projects I am actively engaged in include:
+- modeling expertise and familiarity effects in visual face and object recognition with convolutional neural networks
+- understanding the functional overlap of object and scene recognition through cross-database validated voxel encoding models
+- examining hemispheric specialization of word and face recognition with a combined neuroimaging and behavioral approach
 
 <!-- <p align="left">
   <img height="200" src="/images/mountain_selfie.jpeg">
