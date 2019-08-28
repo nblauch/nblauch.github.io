@@ -9,34 +9,13 @@ redirect_from:
 ---
 
 
-I am a 2nd-year PhD Student in [Neural Computation](http://compneuro.cmu.edu/) in the [Center for the Neural Basis of Cognition](http://www.cnbc.cmu.edu/) at Carnegie Mellon University. I am advised by Professors [David Plaut](http://www.cnbc.cmu.edu/~plaut/) and [Marlene Behrmann](http://www.cnbc.cmu.edu/~behrmann/) in the Visual Cognition group within the [Department of Psychology](https://www.cmu.edu/dietrich/psychology/).
+I am a 2nd-year PhD Student in [Neural Computation](http://compneuro.cmu.edu/) in the [Center for the Neural Basis of Cognition](http://www.cnbc.cmu.edu/) and [Neuroscience Institute](http://www.cmu.edu/ni) at Carnegie Mellon University. I am advised by Professors [David Plaut](http://www.cnbc.cmu.edu/~plaut/) and [Marlene Behrmann](http://www.cnbc.cmu.edu/~behrmann/) in the Visual Cognition group within the [Department of Psychology](https://www.cmu.edu/dietrich/psychology/).
 
 <p align="center">
-  about
   <img width="300" src="/images/brain.png" alt="Me">
-  me
 </p>
 
-I am interested in perception and cognition, and more specifically, their neural and computational bases. My research combines neuroimaging work aimed at explicating the function of large scale neural systems for perception and cognition, behavioral work exploring the fine-grained details of human perceptual performance, and computational modeling work to interpret empirical results, guide future experiments, and provide formal theoretical framework.
-
-Some projects I am actively engaged in include:
-- modeling expertise and familiarity effects in visual face and object recognition with convolutional neural networks
-- understanding the functional overlap of object and scene recognition through cross-database validated voxel encoding models
-- examining hemispheric specialization of word and face recognition with a combined neuroimaging and behavioral approach
-
-<!-- <p align="left">
-  <img height="200" src="/images/mountain_selfie.jpeg">
-</p>
-<p align="right">
-  <img height="200" src="/images/brain.png">
-</p>
-My face             |  Me
-:-------------------------:|:-------------------------:
-![](/images/mountain_selfie.jpeg)  |  ![](/images/brain.png)
-
-Which one is really me? -->
-
-<!-- My overarching quest in research is to better understand how the brain produces the mind. As a scientist, I conceptualize the mind through cognition and perception, measured through behavior. I investigate brain mechanisms using neuroimaging, primarily functional Magnetic Resonance Imaging (fMRI), and analyze other forms of data for certain purposes when available. Currently, though, the main approach I am using to understand the link between brain and mind is the lens of computation, through simulations of artificial neural networks trained to perform perceptual tasks. -->
+I am interested in computational neuroscience, visual perception and cognition, machine learning, and computational psychiatry. Thanks for visiting my site - have a look at some of my publications and projects and feel free to contact me at the links to the left.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
