@@ -15,7 +15,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -113,7 +113,7 @@
    ========================================================================== */
 
 .grid__item {
-  margin-bottom: 2em;
+  margin-bottom: 0em;
 
   .page__meta {
     margin: 0 0 4px;
@@ -225,7 +225,7 @@
     font-size: 1.25rem;
 
     .archive__item-teaser {
-      margin-bottom: 2em;
+      margin-bottom: 0em;
     }
 
     @include breakpoint($small) {

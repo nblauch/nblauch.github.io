@@ -10,10 +10,10 @@ html {
 body {
   margin: 0;
   padding: 0;
-  padding-bottom: 9em;
+  padding-bottom: 8em;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.4;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -23,7 +23,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
-  line-height: 1.2;
+  line-height: 1.4;
   font-family: $header-font-family;
   font-weight: bold;
 }
@@ -114,10 +114,12 @@ blockquote {
 a {
   &:focus {
     @extend %tab-focus;
+    text-decoration: none;
   }
 
   &:hover,
   &:active {
+    text-decoration: none;
     outline: 0;
   }
 }

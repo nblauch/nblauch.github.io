@@ -91,7 +91,7 @@ analytics:
 author:
   name             : "Nicholas Blauch"
   avatar           : "face.jpg"
-  bio              : "Ph.D. Student in Neural Computation"
+  bio              : "Ph.D. Student, Program in Neural Computation"
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
   pubmed           :
@@ -325,4 +325,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-merlot

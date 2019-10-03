@@ -9,13 +9,80 @@ redirect_from:
 ---
 
 
-I am a 2nd-year PhD Student in [Neural Computation](http://compneuro.cmu.edu/) in the [Center for the Neural Basis of Cognition](http://www.cnbc.cmu.edu/) and [Neuroscience Institute](http://www.cmu.edu/ni) at Carnegie Mellon University. I am advised by Professors [David Plaut](http://www.cnbc.cmu.edu/~plaut/) and [Marlene Behrmann](http://www.cnbc.cmu.edu/~behrmann/) in the Visual Cognition group within the [Department of Psychology](https://www.cmu.edu/dietrich/psychology/).
+I am a 2nd-year Ph.D. student in [Neural Computation](http://compneuro.cmu.edu/) in the [Center for the Neural Basis of Cognition](http://www.cnbc.cmu.edu/) and [Neuroscience Institute](http://www.cmu.edu/ni) at Carnegie Mellon University. I am advised by Professors [David Plaut](http://www.cnbc.cmu.edu/~plaut/) and [Marlene Behrmann](http://www.cnbc.cmu.edu/~behrmann/) in the Visual Cognition group within the [Department of Psychology](https://www.cmu.edu/dietrich/psychology/).
 
+My research interests span the neural, cognitive, and computational bases of visual perception and cognition. I want to understand how humans see and understand the world - the algorithms we implement, the underlying distributed brain circuits, and the development of this machinery. I enjoy using different approaches - studying human behavior, imaging brain structure and function, and using computational models to tie things together.
+
+Thanks for visiting my site. Have a look at some of my publications and projects and feel free to contact me at the links to the left.
+
+<br>
+# Publications
+<img align="left" src="/images/nhb2019_pic.png" width="150" style="margin-right:10px"/> <b>[Representing Faces in 3D](/publication/nhb2019)</b> <br>
+<b>Nicholas Blauch</b>, Marlene Behrmann. (2019)\\
+<i>Nature Human Behavior</i>.
+
+<br style="clear:both" />
+<br>
+<img align="left" src="/images/cogsci2017_pic.png" width="150" style="margin-right:10px"/> <b>[Functionally localized representations contain distributed information: insights from simulations of deep convolutional neural networks](/publication/cogsci2017)</b> <br>
+<b>Nicholas Blauch</b>, Elissa Aminoff, Michael J. Tarr. (2017)\\
+<i>39th Annual Proceedings of the Cognitive Science Society</i>, London U.K.
+<br style="clear:both" />
+
+<br>
+# Conference posters and talks
+<img align="left" src="/images/ccn2019_pic.png" width="150" style="margin-right:10px"/> <b>[Visual expertise and the familiar face advantage](/projects/ccn2019)</b> <br>
+<b>Nicholas Blauch</b>, Marlene Behrmann, David Plaut.\\
+Poster at <b>Cognitive Computational Neuroscience 2019</b>, Berlin Germany.
+
+<br style="clear:both" />
+<br>
+<img align="left" src="/images/vss2019_pic.png" width="150" style="margin-right:10px"/> <b>[Assessing the similarity of object and scene representations through cross-validated voxel encoding models](/projects/vss2019)</b> <br>
+<b>Nicholas Blauch</b>, Filipe De Avile Belbute Peres, Alireza Chaman Zar, Juhi Farooqui, David Plaut, Marlene Behrmann. \\
+Poster at <b>Vision Sciences 2019</b>, St. Pete Beach, FL.
+
+<br style="clear:both" />
+<br>
+<img align="left" src="/images/ccn2018_pic.png" width="150" style="margin-right:10px"/> <b>[Task and stimulus normalization effects in face perception: an fMRI study](/projects/ccn2018)</b> <br>
+<b>Nicholas Blauch</b>, Rosemary A. Cowell.\\
+Poster at <b>Cognitive Computational Neuroscience 2018</b>, Philadelphia, PA.
+
+<br style="clear:both" />
+<br>
+<img align="left" src="/images/cogsci2017_pic.png" width="150" style="margin-right:10px"/> <b>[Functionally localized representations contain distributed information](/talks/cogsci2017)</b> <br>
+<b>Nicholas Blauch</b>, Elissa Aminoff, Michael J. Tarr.\\
+Talk at <b>Cognitive Science 2017</b>, London, U.K.
+
+<br>
+<br style="clear:both" />
+# Fun
 <p align="center">
-  <img width="300" src="/images/brain.png" alt="Me">
+  <img width="300" src="/images/brain.png" alt="Me" style="margin-right: 20px">
+  <img width="300" src="/images/whitematter.png" alt="Also me" style="margin-left: 20px">
 </p>
 
-I am interested in computational neuroscience, visual perception and cognition, machine learning, and computational psychiatry. Thanks for visiting my site - have a look at some of my publications and projects and feel free to contact me at the links to the left.
+<!-- ### Recent publications
+- Blauch N, Behrmann M. (2019). Representing Faces in 3D. Nature Human Behavior.
+- Blauch N, Aminoff E, Tarr MJ. (2017). Functionally localized representations contain distributed information: insight from simulations of deep convolutional neural networks. 39th Annual Proceedings of the Cognitive Science Society, London U.K.
+
+### Recent conference abstracts
+- Blauch, N., Behrmann M., Plaut, D.C. (2019). Visual Expertise and the Familiar Face Advantage. Third Annual Cognitive
+Computational Neuroscience Conference, 2019. Berlin, Germany.
+- Blauch, N., De Avila Belbute Peres, F., Faroqui, J., Chaman Zar, A., Plaut, D., Behrmann, M. (2019). Assessing the
+Similarity of Cortical Object and Scene Perception with Cross-Validated Voxel-Encoding Models. Vision Sciences Society
+Annual Meeting. St. Pete Beach, FL.
+- Blauch, N., Cowell, R.A. (2018). Task Demands and Stimulus Normalization in Face Perception: an fMRI Study. Second
+Annual Cognitive Computational Neuroscience Conference, 2018. Philadelphia, PA.
+- Blauch, N., Aminoff, E., Tarr, M.J. (2017). Understanding Cortical Face Selectivity. First Annual Cognitive Computational
+Neuroscience Conference, 2017. New York, NY. -->
+
+<!-- ### Bio
+I did my undergraduate at the University of Massachusetts, Amherst, where I developed an [individual concentration](https://www.umass.edu/bdic/aboutus) in Cognitive Computational Neuroscience and minored in Physics. As an undergrad, I worked with Dave Huber on the nROUSE model of visual priming, and developed a behavioral experiment in which participants "navigated" along trajectories in a 2D isoluminant color space. I was also lucky to spend the summer after my sophomore year studying visual masking and crowding with Denis Pelli at NYU, and the following summer working on deep network simulations with Michael Tarr at CMU. After graduation, I spent a year working as a lab manager and research associate in Rosie Cowell's computational Memory and Perception Lab, learning the ins and outs of fMRI data analysis. I then returned to CMU to begin a Ph.D in Neural Computation.   -->
+
+<!-- <div id="images" align="center">
+    <img src="/images/cnbc.png" width="45%">
+
+    <img src="/images/CMU_Logo_Horiz_Red.png" width="45%">
+</div>​ -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
