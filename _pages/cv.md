@@ -11,8 +11,8 @@ redirect_from:
 
 
 <object data="/files/blauch_CV_2pg.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://nblauch.github.io/files/blauch_CV_2pg.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://nblauch.github.io/files/blauch_CV_2pg.pdf">Download PDF</a>.</p>
+    <embed src="http://nblauch.github.io/files/blauch_CV.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://nblauch.github.io/files/blauch_CV.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 

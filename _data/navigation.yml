@@ -1,14 +1,14 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/
-
-  - title: "Presentations"
-    url: /presentations/
   #
+  # - title: "Projects"
+  #   url: /presentations/
+  # #
   # - title: "Teaching"
   #   url: /teaching/
 
@@ -16,4 +16,4 @@ main:
   #   url: /portfolio/
 
   - title: "CV"
-    url: /files/blauch_CV_2pg.pdf
+    url: /files/blauch_CV.pdf
