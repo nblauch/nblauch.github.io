@@ -11,9 +11,15 @@ redirect_from:
 
 I am a 2nd-year Ph.D. student in [Neural Computation](http://compneuro.cmu.edu/) in the [Center for the Neural Basis of Cognition](http://www.cnbc.cmu.edu/) and [Neuroscience Institute](http://www.cmu.edu/ni) at Carnegie Mellon University. I am advised by Professors [David Plaut](http://www.cnbc.cmu.edu/~plaut/) and [Marlene Behrmann](http://www.cnbc.cmu.edu/~behrmann/) in the Visual Cognition group within the [Department of Psychology](https://www.cmu.edu/dietrich/psychology/). More information can be found in my [CV](/files/blauch_CV.pdf).
 
-My research interests span the neural, cognitive, and computational bases of visual perception and cognition. I want to understand how humans see and understand the world - the algorithms we implement, the underlying distributed brain circuits, the development of this machinery, and how it breaks down and may be repaired. I enjoy using different approaches, including studying human behavior, imaging brain structure and function, and using computational models - drawing heavily from deep learning and computer vision - to tie things together.
+My research interests span the neural, cognitive, and computational bases of visual perception and cognition. I want to understand how humans see and understand the world - the algorithms we implement, the underlying distributed brain circuits, the development of this machinery, and how it breaks down and may be repaired.
 
 # Publications
+<img align="left" src="/images/ccn2019_pic.png" width="150" style="margin-right:10px"/> <b>[Computational insights into human expertise for familiar and unfamiliar face recognition](/publication/psyarxiv2019)</b> <br>
+<b>Nicholas Blauch</b>, Marlene Behrmann, David C. Plaut. (2019)\\
+<i>PsyArxiv</i>.
+
+<br style="clear:both" />
+<br>
 <img align="left" src="/images/nhb2019_pic.png" width="150" style="margin-right:10px"/> <b>[Representing Faces in 3D](/publication/nhb2019)</b> <br>
 <b>Nicholas Blauch</b>, Marlene Behrmann. (2019)\\
 <i>Nature Human Behavior</i>.

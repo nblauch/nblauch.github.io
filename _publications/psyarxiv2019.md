@@ -1,0 +1,14 @@
+---
+title: "Computational insights into human expertise for familiar and unfamiliar face recognition"
+collection: publications
+permalink: /publication/psyarxiv2019
+excerpt: 'We investigated the nature of experience underlying human-level performance in unfamiliar face recognition, and how familiarity may build upon general face representations to provide a robust recognition advantage for known individuals'
+date: 2019-10-24
+venue: 'PsyArvix'
+citation: 'Blauch N., Behrmann M., Plaut D.C. (2019). Computational insights into human expertise for familiar and unfamiliar face recognition. PsyArviv. doi:10.31234/OSF.IO/BV5MP'
+---
+
+[[PDF]](https://psyarxiv.com/bv5mp)
+
+## Abstract
+Faces have provided a window into expert human perceptual mechanisms. But, if humans are faceexperts, why is it so difficult for humans to determine identity matches in images of unfamiliar faces? Oneexplanation offered is that because human expertise in face recognition is limited to familiar faces,unfamiliar faces can be processed only by less sophisticated pictorial metrics (Young & Burton, 2018). Wesought to develop an alternative account in which we explore the perceptual representations underlyingunfamiliar face recognition performance, and then offer a mechanistic understanding of how familiarity maybuild upon these representations to form robust identity representations. We adopted a computationalapproach in which we probed representations learned by a high-performing deep convolutional neuralnetwork (DCNN) trained for visual recognition. By manipulating prior experience of the network, we foundthat previous experience with faces, but not with objects in general, enabled the network to achievehuman-level performance in matching unfamiliar faces, and that increasing experience with faces led toconsistently increasing performance. By simulating the role of familiarity through fine-tuning the networkon a separate set of images of the same individuals, we found that extensive prior experience with facesled to superior learning of novel identities, and a sharp boost in verification. Further, this familiar faceadvantage did not require changes to perceptual representations, but only a learned mapping betweenexisting perceptual representations and identity. Our results suggest that humans can extract substantialidentity-related information from unfamiliar faces, a skill which is acquired over a lifetime of experiencerecognizing faces, but which may be fundamentally limited by the variability of face images. With repeatedexperience with the appearance and associated biographical information of a specific individual, a distinctidentity-based representation may be activated from even highly variable face images, providing a sharpadvantage in identity matching. Thus, although familiarity permits additional post-perceptual processing,humans are clearly perceptual experts in recognizing even unfamiliar faces.
