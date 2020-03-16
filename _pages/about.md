@@ -8,60 +8,75 @@ redirect_from:
   - /about.html
 ---
 
+Hi --- I'm Nick. I am a Ph.D. student in the [Program in Neural Computation](http://compneuro.cmu.edu/) in the [Neuroscience Institute](http://www.cmu.edu/ni) at Carnegie Mellon University, and I am advised by [David Plaut](http://www.cnbc.cmu.edu/~plaut/) and [Marlene Behrmann](http://www.cnbc.cmu.edu/~behrmann/).
 
-I am a 2nd-year Ph.D. student in [Neural Computation](http://compneuro.cmu.edu/) in the [Center for the Neural Basis of Cognition](http://www.cnbc.cmu.edu/) and [Neuroscience Institute](http://www.cmu.edu/ni) at Carnegie Mellon University. I am advised by Professors [David Plaut](http://www.cnbc.cmu.edu/~plaut/) and [Marlene Behrmann](http://www.cnbc.cmu.edu/~behrmann/) in the Visual Cognition group within the [Department of Psychology](https://www.cmu.edu/dietrich/psychology/). More information can be found in my [CV](/files/blauch_CV.pdf).
+I aim to better understand how humans learn to see and understand the world - the development of distributed brain circuits implementing perceptual and cognitive algorithms, and how this machinery breaks down and may be repaired in neuropsychological patients.
 
-My research interests span the neural, cognitive, and computational bases of visual perception and cognition. I want to understand how humans see and understand the world - the algorithms we implement, the underlying distributed brain circuits, the development of this machinery, and how it breaks down and may be repaired.
+<!-- <br style="clear:both" /> -->
+<p align="left">
+  <img width="300" src="/images/Neuroscience_Institute_Black.png" alt="NI" style="margin-right: 20px">
+  <img width="100" src="/images/CMNI_Logo_Red.png" alt="NI2" style="margin-left: 20px">
+  <br>
+</p>
 
-# Publications
+<!-- ---   
+# Publications and Pre-prints
+<img align="left" src="/images/autism_pic.png" width="150" style="margin-right:10px"/> <b>[Uncharacteristic task-evoked pupillary responses implicate atypical locus coeruleus activity in autism](https://www.biorxiv.org/content/10.1101/863928v1.abstract)</b> <br>
+Michael C. Granovetter, Charlie S. Burlingham, <b>Nicholas M. Blauch</b>, Nancy J. Minshaw, David J. Heeger, Marlene Behrmann (2019). <i>bioRXiv</i>.
+
+<br style="clear:both" />
+<br>
 <img align="left" src="/images/ccn2019_pic.png" width="150" style="margin-right:10px"/> <b>[Computational insights into human expertise for familiar and unfamiliar face recognition](/publication/psyarxiv2019)</b> <br>
-<b>Nicholas Blauch</b>, Marlene Behrmann, David C. Plaut. (2019)\\
-<i>PsyArxiv</i>.
+<b>Nicholas M. Blauch</b>, Marlene Behrmann, David C. Plaut. (2019). <i>PsyArxiv</i>.
 
 <br style="clear:both" />
 <br>
 <img align="left" src="/images/nhb2019_pic.png" width="150" style="margin-right:10px"/> <b>[Representing Faces in 3D](/publication/nhb2019)</b> <br>
-<b>Nicholas Blauch</b>, Marlene Behrmann. (2019)\\
+<b>Nicholas M. Blauch</b>, Marlene Behrmann. (2019)\\
 <i>Nature Human Behavior</i>.
 
 <br style="clear:both" />
 <br>
 <img align="left" src="/images/cogsci2017_pic.png" width="150" style="margin-right:10px"/> <b>[Functionally localized representations contain distributed information: insights from simulations of deep convolutional neural networks](/publication/cogsci2017)</b> <br>
-<b>Nicholas Blauch</b>, Elissa Aminoff, Michael J. Tarr. (2017)\\
+<b>Nicholas M. Blauch</b>, Elissa Aminoff, Michael J. Tarr. (2017)\\
 <i>39th Annual Proceedings of the Cognitive Science Society</i>, London U.K.
 <br style="clear:both" />
 
-<br>
-# Conference posters and talks
+---   
+# Conference Presentations
 <img align="left" src="/images/ccn2019_pic.png" width="150" style="margin-right:10px"/> <b>[Visual expertise and the familiar face advantage](/projects/CCN2019)</b> <br>
-<b>Nicholas Blauch</b>, Marlene Behrmann, David Plaut.\\
+<b>Nicholas M. Blauch</b>, Marlene Behrmann, David Plaut.\\
 Poster at <b>Cognitive Computational Neuroscience 2019</b>, Berlin Germany.
 
 <br style="clear:both" />
 <br>
 <img align="left" src="/images/vss2019_pic.png" width="150" style="margin-right:10px"/> <b>[Assessing the similarity of object and scene representations through cross-validated voxel encoding models](/projects/VSS2019)</b> <br>
-<b>Nicholas Blauch</b>, Filipe De Avile Belbute Peres, Alireza Chaman Zar, Juhi Farooqui, David Plaut, Marlene Behrmann. \\
+<b>Nicholas M. Blauch</b>, Filipe De Avile Belbute Peres, Alireza Chaman Zar, Juhi Farooqui, David Plaut, Marlene Behrmann. \\
 Poster at <b>Vision Sciences 2019</b>, St. Pete Beach, FL.
 
 <br style="clear:both" />
 <br>
 <img align="left" src="/images/ccn2018_pic.png" width="150" style="margin-right:10px"/> <b>[Task and stimulus normalization effects in face perception: an fMRI study](/projects/CCN2018)</b> <br>
-<b>Nicholas Blauch</b>, Rosemary A. Cowell.\\
+<b>Nicholas M. Blauch</b>, Rosemary A. Cowell.\\
 Poster at <b>Cognitive Computational Neuroscience 2018</b>, Philadelphia, PA.
 
 <br style="clear:both" />
 <br>
 <img align="left" src="/images/cogsci2017_pic.png" width="150" style="margin-right:10px"/> <b>[Functionally localized representations contain distributed information](/talks/cogsci2017)</b> <br>
-<b>Nicholas Blauch</b>, Elissa Aminoff, Michael J. Tarr.\\
+<b>Nicholas M. Blauch</b>, Elissa Aminoff, Michael J. Tarr.\\
 Talk at <b>Cognitive Science 2017</b>, London, U.K.
 
-<br>
-<br style="clear:both" />
-# Fun
+<br style="clear:both" /> -->
+---   
+<!-- <br>
 <p align="center">
   <img width="300" src="/images/brain.png" alt="Me" style="margin-right: 20px">
   <img width="300" src="/images/whitematter.png" alt="Also me" style="margin-left: 20px">
+  <br>
+  <em>Some pretty but uninformative pictures of me</em>
 </p>
+<br style="clear:both" /> -->
+
 
 <!-- ### Recent publications
 - Blauch N, Behrmann M. (2019). Representing Faces in 3D. Nature Human Behavior.
