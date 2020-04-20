@@ -5,15 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-<img align="left" src="/images/autism_pic.png" width="150" style="margin-right:10px"/> <b>[Uncharacteristic task-evoked pupillary responses implicate atypical locus coeruleus activity in autism](https://www.biorxiv.org/content/10.1101/863928v1.abstract)</b> <br>
-Michael C. Granovetter, Charlie S. Burlingham, <b>Nicholas M. Blauch</b>, Nancy J. Minshaw, David J. Heeger, Marlene Behrmann (2019).\\
-<i>bioRXiv</i>.
+<img align="left" src="/images/ccn2019_pic.png" width="150" style="margin-right:10px"/> <b>[Computational insights into human perceptual expertise for familiar and unfamiliar face recognition](/publication/psyarxiv2019)</b> <br>
+<b>Nicholas M. Blauch</b>, Marlene Behrmann, David C. Plaut. (2020).\\
+<i>Cognition (accepted)</i>.
 
 <br style="clear:both" />
 <br>
-<img align="left" src="/images/ccn2019_pic.png" width="150" style="margin-right:10px"/> <b>[Computational insights into human expertise for familiar and unfamiliar face recognition](/publication/psyarxiv2019)</b> <br>
-<b>Nicholas M. Blauch</b>, Marlene Behrmann, David C. Plaut. (2019).\\
-<i>PsyArxiv</i>.
+<img align="left" src="/images/autism_pic.png" width="150" style="margin-right:10px"/> <b>[Uncharacteristic task-evoked pupillary responses implicate atypical locus coeruleus activity in autism](https://www.jneurosci.org/content/early/2020/04/03/JNEUROSCI.2680-19.2020)</b> <br>
+Michael C. Granovetter, Charlie S. Burlingham, <b>Nicholas M. Blauch</b>, Nancy J. Minshaw, David J. Heeger, Marlene Behrmann (2020).\\
+<i>Journal of Neuroscience</i>.
 
 <br style="clear:both" />
 <br>
