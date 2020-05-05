@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 <br>
+<img align="left" src="/images/CNS2020_pic.png" width="150" style="margin-right:10px"/> <b>[Evidence for an interactive account of hemispheric lateralization in visual perception of words and faces](/projects/CNS2020)</b> <br>
+<b>Nicholas M. Blauch</b>, Anne Margarette S. Maallo, David C. Plaut, Marlene Behrmann\\
+Poster at <b>Cognitive Neuroscience 2020</b>, Virtual.
+
+<!-- <br style="clear:both" /> -->
+<br>
 <img align="left" src="/images/ccn2019_pic.png" width="150" style="margin-right:10px"/> <b>[Visual expertise and the familiar face advantage](/projects/CCN2019)</b> <br>
 <b>Nicholas M. Blauch</b>, Marlene Behrmann, David Plaut.\\
 Poster at <b>Cognitive Computational Neuroscience 2019</b>, Berlin Germany.
