@@ -7,7 +7,7 @@ author_profile: true
 
 <img align="left" src="/images/ccn2019_pic.png" width="150" style="margin-right:10px"/> <b>[Computational insights into human perceptual expertise for familiar and unfamiliar face recognition](/publication/psyarxiv2019)</b> <br>
 <b>Nicholas M. Blauch</b>, Marlene Behrmann, David C. Plaut. (2020).\\
-<i>Cognition (accepted)</i>.
+<i>Cognition</i>.
 
 <br style="clear:both" />
 <br>

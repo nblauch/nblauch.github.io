@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi --- I'm Nick. I am a Ph.D. student in the [Program in Neural Computation](http://compneuro.cmu.edu/) in the [Neuroscience Institute](http://www.cmu.edu/ni) at Carnegie Mellon University, and I am advised by [David Plaut](http://www.cnbc.cmu.edu/~plaut/) and [Marlene Behrmann](http://www.cnbc.cmu.edu/~behrmann/).
+Hi --- I'm Nick. I am a Ph.D. student in the [Program in Neural Computation](http://compneuro.cmu.edu/) in the [Neuroscience Institute](http://www.cmu.edu/ni) at Carnegie Mellon University, and I am advised by [David C. Plaut](http://www.cnbc.cmu.edu/~plaut/) and [Marlene Behrmann](http://www.cnbc.cmu.edu/~behrmann/).
 
 I aim to better understand how humans learn to see and understand the world - the development of distributed brain circuits implementing perceptual and cognitive algorithms, and how this machinery breaks down and may be repaired in neuropsychological patients.
 

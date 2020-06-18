@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 <br>
+<img align="left" src="/images/VSS2020_pic.png" width="150" style="margin-right:10px"/> <b>[Cortical organization as optimization under distance-dependent constraints](/projects/VSS2020)</b> <br>
+<b>Nicholas M. Blauch</b>, Marlene Behrmann, David C. Plaut\\
+Poster at <b>Vision Sciences 2020</b>, Virtual.
+
+<br>
 <img align="left" src="/images/CNS2020_pic.png" width="150" style="margin-right:10px"/> <b>[Evidence for an interactive account of hemispheric lateralization in visual perception of words and faces](/projects/CNS2020)</b> <br>
 <b>Nicholas M. Blauch</b>, Anne Margarette S. Maallo, David C. Plaut, Marlene Behrmann\\
 Poster at <b>Cognitive Neuroscience 2020</b>, Virtual.
