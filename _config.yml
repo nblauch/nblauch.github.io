@@ -90,12 +90,12 @@ analytics:
 # Site Author
 author:
   name             : "Nicholas Blauch"
-  avatar           : "basti.jpeg"
+  avatar           : "new_headshot.jfif"
   bio              : "Ph.D. Student, Program in Neural Computation"
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=mKI-uQ4AAAAJ&hl=en"
   email            : "blauch@cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
