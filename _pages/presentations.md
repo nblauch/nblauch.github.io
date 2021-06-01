@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 <br>
+<img align="left" src="/images/VSS2021_pic.png" width="150" style="margin-right:10px"/> <b>[Developing topographic organization in a recurrent neural network model with biological constraints](/projects/VSS2021)</b> <br>
+<b>Nicholas M. Blauch</b>, Marlene Behrmann, David C. Plaut\\
+Talk at <b>Vision Sciences 2021</b>, Virtual.
+
+<br>
 <img align="left" src="/images/VSS2020_pic.png" width="150" style="margin-right:10px"/> <b>[Cortical organization as optimization under distance-dependent constraints](/projects/VSS2020)</b> <br>
 <b>Nicholas M. Blauch</b>, Marlene Behrmann, David C. Plaut\\
 Poster at <b>Vision Sciences 2020</b>, Virtual.

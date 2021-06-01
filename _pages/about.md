@@ -12,6 +12,9 @@ Hi --- I'm Nick. I am a Ph.D. student in the [Program in Neural Computation](htt
 
 I aim to better understand how humans learn to see and understand the world - the development of distributed brain circuits implementing perceptual and cognitive algorithms, and how this machinery breaks down and may be repaired in neuropsychological patients.
 
+Here is a recent talk I gave at the Vision Sciences Society 2021 Conference.
+{% include youtubePlayer.html id="MIdtuxfypSA" %}
+
 <!-- <br style="clear:both" /> -->
 <p align="left">
   <img width="300" src="/images/Neuroscience_Institute_Black.png" alt="NI" style="margin-right: 20px">
