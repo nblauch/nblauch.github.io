@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-<img align="left" src="/images/VSS2021_pic.png" width="150" style="margin-right:10px"/> <b>[A connectivity-constrained computational account of topographic organization in primate high-level visual cortex](/publication/biorxiv2021)</b> <br>
-<b>Nicholas M. Blauch</b>, Marlene Behrmann, David C. Plaut. (in press).\\
+<img align="left" src="/images/VSS2021_pic.png" width="150" style="margin-right:10px"/> <b>[A connectivity-constrained computational account of topographic organization in primate high-level visual cortex](/publication/pnas2022)</b> <br>
+<b>Nicholas M. Blauch</b>, Marlene Behrmann, David C. Plaut. (2022).\\
 <i>Proceedings of the National Academy of Sciences</i>.
 
 <br style="clear:both" />
