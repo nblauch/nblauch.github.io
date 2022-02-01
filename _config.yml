@@ -90,7 +90,7 @@ analytics:
 # Site Author
 author:
   name             : "Nicholas Blauch"
-  avatar           : "new_headshot.jfif"
+  avatar           : "headshot_crop.png.jpg"
   bio              : "Ph.D. Student, Program in Neural Computation"
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
@@ -110,7 +110,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "nicholas-blauch"
   orcid            : "https://orcid.org/0000-0002-7843-578X"
   pinterest        :
   soundcloud       :
