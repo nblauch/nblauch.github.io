@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 <br>
+<img align="left" src="/images/VSS2022_pic.png" width="150" style="margin-right:10px"/> <b>[Connectivity constraints, viewing biases, and task demands within a bi-hemispheric interactive topographic network account for the layout of human ventral temporal cortex](/projects/VSS2022)</b> <br>
+<b>Nicholas M. Blauch</b>, Marlene Behrmann, David C. Plaut\\
+Talk at <b>Vision Sciences 2022</b>, St Pete Beach, FL, USA.
+
+<br>
 <img align="left" src="/images/VSS2021_pic.png" width="150" style="margin-right:10px"/> <b>[Developing topographic organization in a recurrent neural network model with biological constraints](/projects/VSS2021)</b> <br>
 <b>Nicholas M. Blauch</b>, Marlene Behrmann, David C. Plaut\\
 Talk at <b>Vision Sciences 2021</b>, Virtual.
