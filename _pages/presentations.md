@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 <br>
+<img align="left" src="/images/OHBM2022_pic.png" width="150" style="margin-right:10px"/> <b>[A computational model of the topography of human ventral temporal cortex](/projects/OHBM2022)</b> <br>
+<b>Nicholas M. Blauch</b>, Marlene Behrmann, David C. Plaut\\
+Poster at <b>Organization for Human Brain Mapping 2022</b>, Glasgow, Scotland, UK.
+
+<br>
 <img align="left" src="/images/VSS2022_pic.png" width="150" style="margin-right:10px"/> <b>[Connectivity constraints, viewing biases, and task demands within a bi-hemispheric interactive topographic network account for the layout of human ventral temporal cortex](/projects/VSS2022)</b> <br>
 <b>Nicholas M. Blauch</b>, Marlene Behrmann, David C. Plaut\\
 Talk at <b>Vision Sciences 2022</b>, St Pete Beach, FL, USA.
