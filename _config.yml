@@ -16,7 +16,7 @@ github: [metadata]
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicholas M. Blauch"
+title                    : "Nicholas M. Blauch, Ph.D"
 title_separator          : "-"
 name                     : &name "Nicholas M. Blauch"
 description              : &description "personal description"
@@ -89,14 +89,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nicholas Blauch"
+  name             : "Nicholas M. Blauch"
   avatar           : "headshot_fall2023.png"
-  bio              : "Ph.D. Student, Program in Neural Computation"
-  location         : "Pittsburgh, PA"
-  employer         : "Carnegie Mellon University"
+  bio              : "Postdoctoral Fellow"
+  location         : "Cambridge, MA"
+  employer         : "Harvard University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=mKI-uQ4AAAAJ&hl=en"
-  email            : "blauch@cmu.edu"
+  email            : "nblauch@fas.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

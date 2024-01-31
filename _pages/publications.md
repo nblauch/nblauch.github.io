@@ -5,6 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
+<img align="left" src="/images/vin_iscience_2024.jpg" width="150" style="margin-right:10px"/> <b>[Visual word processing engages a hierarchical,
+distributed, and bilateral cortical network](/publication/iscience2024)</b> <br>
+Raina Vin, <b>Nicholas M. Blauch</b>, David C. Plaut, Marlene Behrmann. (2024).\\
+<i>iScience</i>.
+
+<br style="clear:both" />
+<br>
+<img align="left" src="/images/thesis_arch_pic.png" width="150" style="margin-right:10px"/> <b>[A connectivity-constrained computational account of topographic organization in high-level visual cortex](/publication/thesis)</b> <br>
+<b>Nicholas M. Blauch</b> (2023).\\
+<i>Carnegie Mellon University</i>.
+
+<br style="clear:both" />
+<br>
 <img align="left" src="/images/VSS2021_pic.png" width="150" style="margin-right:10px"/> <b>[A connectivity-constrained computational account of topographic organization in primate high-level visual cortex](/publication/pnas2022)</b> <br>
 <b>Nicholas M. Blauch</b>, Marlene Behrmann, David C. Plaut. (2022).\\
 <i>Proceedings of the National Academy of Sciences</i>.

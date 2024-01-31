@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from:
@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi --- I'm Nick. I'm a Ph.D. candidate in the [Program in Neural Computation](http://compneuro.cmu.edu/) in the [Neuroscience Institute](http://www.cmu.edu/ni) at Carnegie Mellon University, where I work with [David C. Plaut](http://www.cnbc.cmu.edu/~plaut/) and [Marlene Behrmann](http://www.cnbc.cmu.edu/~behrmann/). 
+How do organisms learn autonomously through observing and interacting with the world? More specifically, how do brains enable this learning and the resultant cognitive and behavioral capacities of humans and other organisms? How do the architectural constraints of our brains shape learning and emergent neural representations? What can we learn from the data we collect in cognitive science and neuroscience? How can artificial intelligence inform our understanding of biological intelligence, and vice-versa?
 
-I aim to better understand how humans learn to see and understand the world, and how brain networks may support these feats of perception and cognition. In particular, I am interested in cortical networks underlying high-level vision (face and object recognition and reading), approaching these networks through the lens of cognitive computational neuroscience and deep learning, with a focus on powerful generic architectures, learning algorithms, and naturalistic inputs. I also do neuroimaging and psychophysical experiments to gain new empirical insights into the brain and mind. Beyond science, I am interested in translating novel insights and computational approaches into better diagnosis and treatments for developmental and acquired neurological and neuropsychological disorders, and have interned as a deep learning scientist/engineer in a neurotechnology setting towards this end. 
+As a Postdoctoral Fellow in the Harvard Vision Lab, these are some of the questions I am fortunate to work on, along with my advisors Talia Konkle and George Alvarez, and brilliant colleagues in and out of the lab. Generally, I pull heavily from the tools and knowledge of modern AI to make theoretical advances in neuroscience. 
 
-My research has involved the development of computational models of [familiar and unfamiliar face recognition](/publication/cognition2020) and [cortical organization for visual domains](/publication/pnas2022). The latter work introduced a class of computational models of visual cortical topography, referred to as Interactive Topographic Networks. The code to simulate these models and further develop them is publicly available on [GitHub](https://github.com/viscog-cmu/ITN.git). Much of my research continues to build upon this class of models, for example extending it to account for the influence of retinotopy and language on the global organization of human ventral temporal cortex, including mediolateral and hemispheric organization (see poster from [OHBM 2022](/projects/OHBM2022)), and in modeling the organization of language through topographic language models (stay tuned!). I see this work as a set of critical first steps towards the development of large-scale functional models of the human cortex, simulations of which can help us both better understand the neurobiological basis of cognition and behavior, and aid neurotechnological interventions, such as predicting the effects of surgical resection or enhancing recovery from damage. 
+I received my Ph.D in Neural Computation from Carnegie Mellon University in December 2023, where I was advised by David Plaut and Marlene Behrmann. My Ph.D work involved the development of computational models of [familiar and unfamiliar face recognition](/publication/cognition2020), and of [cortical organization for visual domains](/publication/pnas2022). The latter work introduced a class of computational models of visual cortical topography, referred to as Interactive Topographic Networks. The code to simulate these models and further develop them is publicly available on [GitHub](https://github.com/viscog-cmu/ITN.git). Much of my research continues to build upon this class of models, for example extending it to account for the influence of retinotopy and language on the global organization of human ventral temporal cortex, including mediolateral and hemispheric organization (see poster from [OHBM 2022](/projects/OHBM2022)), and in modeling the organization of language through topographic language models (stay tuned!). I see this work as a set of critical first steps towards the development of large-scale functional models of the human cortex. 
+ <!-- simulations of which can help us both better understand the neurobiological basis of cognition and behavior, and aid neurotechnological interventions, such as predicting the effects of surgical resection or enhancing recovery from damage. -->
 
-I am always eager to discuss science and technology, and am happy to answer any questions you have about my work. Feel free to get in touch through email or social media using the links to the left!
+I am always eager to discuss science and technology, and am happy to answer any questions you have about my work or discuss possible routes for collaboration. Feel free to get in touch through email or social media using the links to the left.
 
 <!-- A good (albeit somewhat dated) introduction to this modeling work is a talk from Vision Sciences Society 2021 Conference, below. Ongoing work has built a 2-hemisphere version of this model that aims to account for the hemispheric organization of words and faces, among other object domains (see poster from [OHBM 2022](/projects/OHBM2022)).
 
@@ -23,11 +24,11 @@ I am always eager to discuss science and technology, and am happy to answer any 
 {% include youtubePlayer.html id="MIdtuxfypSA" %}
 
 <!-- <br style="clear:both" /> -->
-<p align="left">
+<!-- <p align="left">
   <img width="300" src="/images/Neuroscience_Institute_Black.png" alt="NI" style="margin-right: 20px">
   <img width="100" src="/images/CMNI_Logo_Red.png" alt="NI2" style="margin-left: 20px">
   <br>
-</p> 
+</p>  -->
 
 <!-- ---   
 # Publications and Pre-prints
@@ -78,14 +79,14 @@ Talk at <b>Cognitive Science 2017</b>, London, U.K.
 
 <br style="clear:both" /> -->
 ---   
-<!-- <br>
+<br>
 <p align="center">
   <img width="300" src="/images/brain.png" alt="Me" style="margin-right: 20px">
   <img width="300" src="/images/whitematter.png" alt="Also me" style="margin-left: 20px">
   <br>
   <em>Some pretty but uninformative pictures of me</em>
 </p>
-<br style="clear:both" /> -->
+<br style="clear:both" />
 
 
 <!-- ### Recent publications
