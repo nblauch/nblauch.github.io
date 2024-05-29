@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+<img align="left" src="/images/topoformer_pic.png" width="150" style="margin-right:10px"/> <b>[Topoformer: brain-like topographic organization in Transformer language models through spatial querying and reweighting](/publication/iclr2024)</b> <br>
+Taha BinHuraib, Greta Tuckute, <b>Nicholas M. Blauch</b> (2024).\\
+<i>ICLR Re-Align Workshop</i>.
+
+<br style="clear:both" />
+<br>
 <img align="left" src="/images/vin_iscience_2024.jpg" width="150" style="margin-right:10px"/> <b>[Visual word processing engages a hierarchical,
 distributed, and bilateral cortical network](/publication/iscience2024)</b> <br>
 Raina Vin, <b>Nicholas M. Blauch</b>, David C. Plaut, Marlene Behrmann. (2024).\\
