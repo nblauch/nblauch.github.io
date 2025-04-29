@@ -9,13 +9,13 @@ For the most up-to-date list, see [my Google Scholar profile](https://scholar.go
 
 <br style="clear:both" />
 <br>
-<img align="left" src="/images/biorxiv2024_pic.png" width="150" style="margin-right:10px"/> <b>[Individual variation in the functional lateralization of human ventral temporal cortex: Local competition and long-range coupling](/publication/biorxiv2024)</b> <br>
-<b>Nicholas M. Blauch</b>, David C. Plaut, Raina Vin, Marlene Behrmann (2024). <i>bioRXiv</i>.
+<img align="left" src="/images/biorxiv2024_pic.png" width="150" style="margin-right:10px"/> <b>[Individual variation in the functional lateralization of human ventral temporal cortex: Local competition and long-range coupling](/publication/imagingneuro2025)</b> <br>
+<b>Nicholas M. Blauch</b>, David C. Plaut, Raina Vin, Marlene Behrmann (2025). <i>Imaging Neuroscience</i>.
 
 <br style="clear:both" />
 <br>
-<img align="left" src="/images/topoLM_pic.png" width="150" style="margin-right:10px"/> <b>[TopoLM: brain-like spatio-functional organization in a topographic language model](/publication/arxiv2024)</b> <br>
-Neil Rathi*, Johannes Mehrer*, Badr AlKhamissi, Taha Binhuraib, <b>Nicholas M. Blauch</b>, & Martin Schrimpf (2024). <i>arXiv</i>.
+<img align="left" src="/images/topoLM_pic.png" width="150" style="margin-right:10px"/> <b>[TopoLM: brain-like spatio-functional organization in a topographic language model](/publication/iclr2025)</b> <br>
+Neil Rathi*, Johannes Mehrer*, Badr AlKhamissi, Taha Binhuraib, <b>Nicholas M. Blauch</b>, & Martin Schrimpf (2025). <i>International Conference on Learning Representations</i>.
 
 <br style="clear:both" />
 <br>
