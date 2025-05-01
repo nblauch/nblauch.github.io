@@ -15,7 +15,7 @@ For the most up-to-date list, see [my Google Scholar profile](https://scholar.go
 <br style="clear:both" />
 <br>
 <img align="left" src="/images/topoLM_pic.png" width="150" style="margin-right:10px"/> <b>[TopoLM: brain-like spatio-functional organization in a topographic language model](/publication/iclr2025)</b> <br>
-Neil Rathi*, Johannes Mehrer*, Badr AlKhamissi, Taha Binhuraib, <b>Nicholas M. Blauch</b>, & Martin Schrimpf (2025). <i>International Conference on Learning Representations</i>.
+Neil Rathi, Johannes Mehrer, Badr AlKhamissi, Taha Binhuraib, <b>Nicholas M. Blauch</b>, & Martin Schrimpf (2025). <i>International Conference on Learning Representations</i>.
 
 <br style="clear:both" />
 <br>
