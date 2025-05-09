@@ -30,6 +30,13 @@ Raina Vin, <b>Nicholas M. Blauch</b>, David C. Plaut, Marlene Behrmann. (2024). 
 
 <br style="clear:both" />
 <br>
+<img align="left" src="/images/frontiers_pic.jpg" width="150" style="margin-right:10px"/> <b>[Data leakage in deep learning studies of translational EEG](/publication/frontiers2024)</b> <br>
+Geoffrey Brookshire, Jake Kasper, <b>Nicholas M. Blauch</b>,
+Yunan Charles Wu, Ryan Glatt, David A. Merrill,
+Spencer Gerrol, Keith J. Yoder, Colin Quirk and Ché Lucero (2024). <i>Frontiers in Neuroscience</i>.
+
+<br style="clear:both" />
+<br>
 <img align="left" src="/images/thesis_arch_pic.png" width="150" style="margin-right:10px"/> <b>[A connectivity-constrained computational account of topographic organization in high-level visual cortex](/publication/thesis)</b> <br>
 <b>Nicholas M. Blauch</b> (2023). Ph.D Thesis. <i>Carnegie Mellon University</i>.
 

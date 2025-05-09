@@ -5,9 +5,10 @@ permalink: /publication/imagingneuro2025
 excerpt: ''
 date: 2025-03-03
 venue: 'Imaging Neuroscience'
-citation: 'Blauch N., Plaut, D.C., Vin, R., Behrmann M. (2025). Individual variation in the functional lateralization of human ventral temporal cortex: Local competition and long-range coupling. Imaging Neuroscience.'
+citation: 'Blauch N., Plaut, D.C., Vin, R., Behrmann M. (2025). Individual variation in the functional lateralization of human ventral temporal cortex: Local competition and long-range coupling. Imaging Neuroscience, 3 imag_a_00488. doi: https://doi.org/10.1162/imag_a_00488'
 ---
 
 [[HTML]](https://doi.org/10.1162/imag_a_00488)
 [[PDF]](/files/blauch_IN_2025.pdf)
+[[SI PDF]](/files/blauch_IN_2025_SI.pdf)
 [[Code]](https://github.com/viscog-cmu/blauch_imaging_neuro_2025)
