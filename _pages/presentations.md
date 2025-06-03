@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 <br>
+<img align="left" src="/images/VSS2025_pic.png" width="125" style="margin-right:35px"/> <b>[Foveated sensing in KNN-convolutional neural networks based on isotropic cortical magnification](/projects/VSS2025)</b> <br>
+<b>Nicholas M. Blauch</b>, George A. Alvarez, Talia Konkle\\
+Poster at <b>Vision Sciences Society, 2025</b>, St. Pete Beach, FL, USA.
+
+<br>
 <img align="left" src="/images/topoformer_pic.png" width="125" style="margin-right:35px"/> <b>[Brain-like functional organization in topographic transformer models of language processing](/projects/CCN2024)</b> <br>
 Taha Binhuraib, Greta Tuckute, <b>Nicholas M. Blauch</b>\\
 Poster at <b>Cognitive Computational Neuroscience, 2024</b>, Cambridge, MA, USA.
