@@ -8,13 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-How do brains enable organisms to learn from observing and interacting with the world?  How do their architectural constraints shape this learning and the structure of emergent neural representations? How can artificial intelligence inform our understanding of biological intelligence, and vice-versa?
+<!-- What algorithms enable us to learn form observing and interacting with the world? How do they do so efficiently? -->
 
-These are some of the questions I am working on as a Postdoctoral Fellow in the [Harvard Vision Sciences Lab](https://konklab.fas.harvard.edu/#), in the [Psychology Department](https://psychology.fas.harvard.edu/) and [Kempner Institute for Natural and Artificial Intelligence](https://kempnerinstitute.harvard.edu/). I am primarily advised by [Talia Konkle](https://konklab.fas.harvard.edu), and collaborate with [George Alvarez](https://visionlab.harvard.edu/george/) and others in the Vision Sciences Lab, along with [Hanspeter Pfister](https://seas.harvard.edu/person/hanspeter-pfister) and others in the [Visual Computing Group](https://vcg.seas.harvard.edu/). Currently, I am focused on developing computational vision models that learn to see more like humans, and can provide greater insights into the neural computations underlying high-level vision. A particular active interest is *foveation*, whereby the human retina over-samples in the center of gaze (fovea), leading to a systematic over-representation of the fovea in the retinotopic maps of the visual cortex. I am currently studying how this affects high-level vision -- providing efficient sampling, demanding active mechanisms, and providing particular signals for self-supervised learning -- as well as the organization of high-level visual cortex -- with the retinotopic organization scaffolding all later processes. Here, as in my prior work, I am using the modern AI toolkit to implement classic and new ideas from neuroscience and cognitive science, in order to make theoretical scientific advances. 
+I am a postdoctoral researcher at NVIDIA, working on a simulation-first approach to developing physical AI. I am also a neuroscientist and vision scientist; I received my Ph.D. in Neural Computation from Carnegie Mellon University, and did postdoctoral research in the Harvard Vision Sciences Lab, where my research on human foveated vision led me into my current research in robotics.  
 
-I received my Ph.D in Neural Computation from Carnegie Mellon University in December 2023, where I was advised by [David C. Plaut](https://www.cnbc.cmu.edu/~plaut/) and [Marlene Behrmann](https://www.behrmannlab.pitt.edu/). My Ph.D work involved the development of computational models of [familiar and unfamiliar face recognition](/publication/cognition2020), and of [cortical organization for visual domains](/publication/pnas2022), as well as empirical investigations into the [hemispheric organization of high-level visual cortex](/publication/imagingneuro2025). Much of my research continues to build upon the topographic models I developed in my PhD, for example extending it to account for the [influence of long-range connectivity on the global organization](/projects/OHBM2022) of human ventral temporal cortex, and in modeling the spatial organization of language processing through [topographic Transformer language models](/publication/iclr2024) (see also our newer work: [topoLM](/publication/iclr2025)). I see this work as a set of critical first steps towards the development of large-scale, spatially-embedded, functional models of the human brain, a challenging task which I hope to make much progress on in the coming years. 
+I believe that understanding the efficiencies of the human brain can play a key role in unlocking advances in AI. In turn, these advances in AI – including the simulation environments we train AI models in – will power huge leaps in understanding how biological brains learn and compute, along with countless other applications.
 
-Practically, my work aims to be useful for building efficient, sustainable AI; as impressive as it is, AI is currently orders of magnitude less energetically efficient than the human brain, which runs on ~20 watts. The spatial embedding of neural computations (at many levels, from dendrites, to columns, hypercolumns, areas, and networks) seems to be a key motif that may contribute to the brain's remarkable energetic efficiency. 
+<!-- For now, I'm endowing robots with human-like vision and studying the consequences. Updates coming soon. -->
+
+
+<!-- This allows for -->
+
+
+  <!-- allowing for a variety of peripheral visual behaviors that do not require peak resolution. This leads to a fundamentally different, active form of vision, enabling both learning and perception.  -->
+
+
+
+<!-- where I was advised by David C. Plaut and Marlene Behrmann. There, my work focused on high-level visual recognition and its topographic organization in the ventral stream, using both computational models and neuroimaging. After, I completed a Postdoctoral Fellowship at Harvard University, working with Talia Konkle in the Vision Sciences Laboratory and Kempner Institute, where I developed a novel approach for foveated perception based on the relationship between non-uniform retinal sensing and the topographic organization of primary visual cortex. -->
+
+<!-- Updates coming soon.  -->
 
  <!-- simulations of which can help us both better understand the neurobiological basis of cognition and behavior, and aid neurotechnological interventions, such as predicting the effects of surgical resection or enhancing recovery from damage. -->
 
