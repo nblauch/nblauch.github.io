@@ -91,12 +91,12 @@ analytics:
 author:
   name             : "Nicholas M. Blauch"
   avatar           : "headshot_fall2023.png"
-  bio              : "Postdoctoral Fellow"
-  location         : "Cambridge, MA"
-  employer         : "Harvard University"
+  bio              : "Postdoctoral Researcher"
+  location         : "Seattle, Wa"
+  employer         : "NVIDIA"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=mKI-uQ4AAAAJ&hl=en"
-  email            : "nblauch@fas.harvard.edu"
+  email            : "nblauch@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -10,9 +10,9 @@ redirect_from:
 
 <!-- What algorithms enable us to learn form observing and interacting with the world? How do they do so efficiently? -->
 
-I am a postdoctoral researcher at NVIDIA, working on a simulation-first approach to developing physical AI. I am also a neuroscientist and vision scientist; I received my Ph.D. in Neural Computation from Carnegie Mellon University, and did postdoctoral research in the Harvard Vision Sciences Lab, where my research on human foveated vision led me into my current research in robotics.  
+I am a postdoctoral researcher at NVIDIA, working on efficient perception for training robotic policies in simulation. I am also a neuroscientist and vision scientist; I received my Ph.D. in Neural Computation from Carnegie Mellon University, and did postdoctoral research in the Harvard Vision Sciences Lab, where my research on human foveated vision led me into my current research in robotics. 
 
-I believe that understanding the efficiencies of the human brain can play a key role in unlocking advances in AI. In turn, these advances in AI – including the simulation environments we train AI models in – will power huge leaps in understanding how biological brains learn and compute, along with countless other applications.
+I believe that understanding the efficiencies of the human brain can play a key role in unlocking advances in AI. In turn, these advances in AI – including the simulation environments we train AI models in – will power huge leaps in understanding how biological brains learn and compute, along with countless other applications. I consider myself super lucky to work on these problems! 
 
 <!-- For now, I'm endowing robots with human-like vision and studying the consequences. Updates coming soon. -->
 

@@ -9,6 +9,11 @@ For the most up-to-date list, see [my Google Scholar profile](https://scholar.go
 
 <br style="clear:both" />
 <br>
+<img align="left" src="/images/arxiv2026_pic.png" width="150" style="margin-right:10px"/> <b>[FOVI: A biologically-plausible foveated interface for deep vision models](/publication/arxiv2026)</b> <br>
+<b>Nicholas M. Blauch</b>, George A. Alvarez, Talia Konkle (2026). <i>arXiv</i>.
+
+<br style="clear:both" />
+<br>
 <img align="left" src="/images/psyarxiv2025_pic.jpeg" width="150" style="margin-right:10px"/> <b>[Retinotopic scaffolding of high-level vision](/publication/psyarxiv2025)</b> <br>
 <b>Nicholas M. Blauch</b>, Marlene Behrmann, David C. Plaut (2025). <i>PsyArXiv</i>.
 
