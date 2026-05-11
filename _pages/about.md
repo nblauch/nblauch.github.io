@@ -8,91 +8,146 @@ redirect_from:
   - /about.html
 ---
 
-<!-- What algorithms enable us to learn form observing and interacting with the world? How do they do so efficiently? -->
+I am a Sr. Research Scientist at NVIDIA, working with the Isaac Lab and Dex teams on efficient perception for training robots in simulation, taking inspiration from the human brain and visual system. I received my Ph.D. in Neural Computation from Carnegie Mellon University, and did postdoctoral research in the Harvard Vision Sciences Lab, where my research on human foveated vision led me into my current research in robotics. I believe neuroscience has a lot to learn about from AI and robotics, and vice versa. I'm working on both sides of the problem. 
 
-I am a postdoctoral researcher at NVIDIA, working on efficient perception for training robotic policies in simulation. I am also a neuroscientist and vision scientist; I received my Ph.D. in Neural Computation from Carnegie Mellon University, and did postdoctoral research in the Harvard Vision Sciences Lab, where my research on human foveated vision led me into my current research in robotics. 
+## Publications
 
-I believe that understanding the efficiencies of the human brain can play a key role in unlocking advances in AI. In turn, these advances in AI – including the simulation environments we train AI models in – will power huge leaps in understanding how biological brains learn and compute, along with countless other applications. I consider myself super lucky to work on these problems! 
+For the most up-to-date list, see [my Google Scholar profile](https://scholar.google.com/citations?user=mKI-uQ4AAAAJ&hl).
 
-<!-- For now, I'm endowing robots with human-like vision and studying the consequences. Updates coming soon. -->
+<div style="display: flex; gap: 10px; margin-bottom: 15px;">
+<img src="/images/arxiv2026_pic.png" style="width:150px; height:auto; flex-shrink:0; align-self:flex-start;"/>
+<div>
+<b style="color: #ba0028;">FOVI: A biologically-plausible foveated interface for deep vision models</b> <br>
+<span style="font-size: 0.9em;"><b>Blauch, N. M.</b>, Alvarez, G. A., & Konkle, T. (2026). <i>ICML</i>. <br>
+<a href="https://arxiv.org/abs/2602.03766">[arXiv]</a>
+<a href="/files/2602.03766v1.pdf">[PDF]</a>
+<a href="https://github.com/nblauch/fovi">[Code]</a>
+<a href="https://huggingface.co/fovi-pytorch">[Models on HuggingFace]</a>
+<a href="https://nblauch.github.io/fovi">[Code documentation]</a></span>
+</div>
+</div>
 
+<div style="display: flex; gap: 10px; margin-bottom: 15px;">
+<img src="/images/psyarxiv2025_pic.jpeg" style="width:150px; height:auto; flex-shrink:0; align-self:flex-start;"/>
+<div>
+<b style="color: #ba0028;">Retinotopic scaffolding of high-level vision</b> <br>
+<span style="font-size: 0.9em;"><b>Blauch, N. M.</b>, Behrmann, M., & Plaut, D. C. (2025). <i>PsyArXiv</i>. <br>
+<a href="https://doi.org/10.31234/osf.io/rynbz_v2">[HTML]</a>
+<a href="/files/blauch_psyarxiv2025.pdf">[PDF]</a></span>
+</div>
+</div>
 
-<!-- This allows for -->
+<div style="display: flex; gap: 10px; margin-bottom: 15px;">
+<img src="/images/biorxiv2024_pic.png" style="width:150px; height:auto; flex-shrink:0; align-self:flex-start;"/>
+<div>
+<b style="color: #ba0028;">Individual variation in the functional lateralization of human ventral temporal cortex: Local competition and long-range coupling</b> <br>
+<span style="font-size: 0.9em;"><b>Blauch, N. M.</b>, Plaut, D. C., Vin, R., & Behrmann, M. (2025). <i>Imaging Neuroscience</i>, <i>3</i>. <br>
+<a href="https://doi.org/10.1162/imag_a_00488">[HTML]</a>
+<a href="/files/blauch_IN_2025.pdf">[PDF]</a>
+<a href="/files/blauch_IN_2025_SI.pdf">[SI PDF]</a>
+<a href="https://github.com/viscog-cmu/blauch_imaging_neuro_2025">[Code]</a></span>
+</div>
+</div>
 
+<div style="display: flex; gap: 10px; margin-bottom: 15px;">
+<img src="/images/topoLM_pic.png" style="width:150px; height:auto; flex-shrink:0; align-self:flex-start;"/>
+<div>
+<b style="color: #ba0028;">TopoLM: Brain-like spatio-functional organization in a topographic language model</b> <br>
+<span style="font-size: 0.9em;">Rathi, N., Mehrer, J., AlKhamissi, B., Binhuraib, T., <b>Blauch, N. M.</b>, & Schrimpf, M. (2025). <i>International Conference on Learning Representations</i>. <br>
+<a href="https://arxiv.org/abs/2410.11516">[arXiv]</a>
+<a href="/files/rathi_2025_iclr.pdf">[PDF]</a>
+<a href="https://github.com/epflneuroailab/topolm">[Code and model weights]</a></span>
+</div>
+</div>
 
-  <!-- allowing for a variety of peripheral visual behaviors that do not require peak resolution. This leads to a fundamentally different, active form of vision, enabling both learning and perception.  -->
+<div style="display: flex; gap: 10px; margin-bottom: 15px;">
+<img src="/images/topoformer_pic.png" style="width:150px; height:auto; flex-shrink:0; align-self:flex-start;"/>
+<div>
+<b style="color: #ba0028;">Topoformer: Brain-like topographic organization in Transformer language models through spatial querying and reweighting</b> <br>
+<span style="font-size: 0.9em;">BinHuraib, T., Tuckute, G., & <b>Blauch, N. M.</b> (2024). <i>ICLR Re-Align Workshop</i>. <br>
+<a href="https://openreview.net/pdf?id=3pLMzgoZSA">[Paper]</a>
+<a href="https://tahabinhuraib.github.io/topoformer.github.io/">[Website]</a>
+<a href="https://github.com/TahaBinhuraib/topoformer">[Code]</a></span>
+</div>
+</div>
 
+<div style="display: flex; gap: 10px; margin-bottom: 15px;">
+<img src="/images/vin_iscience_2024.jpg" style="width:150px; height:auto; flex-shrink:0; align-self:flex-start;"/>
+<div>
+<b style="color: #ba0028;">Visual word processing engages a hierarchical, distributed, and bilateral cortical network</b> <br>
+<span style="font-size: 0.9em;">Vin, R., <b>Blauch, N. M.</b>, Plaut, D. C., & Behrmann, M. (2024). <i>iScience</i>, <i>27</i>, 108809. <br>
+<a href="https://doi.org/10.1016/j.isci.2024.108809">[Paper]</a>
+<a href="https://www.cell.com/iscience/pdf/S2589-0042(24)00030-0.pdf">[PDF]</a></span>
+</div>
+</div>
 
+<div style="display: flex; gap: 10px; margin-bottom: 15px;">
+<img src="/images/frontiers_pic.jpg" style="width:150px; height:auto; flex-shrink:0; align-self:flex-start;"/>
+<div>
+<b style="color: #ba0028;">Data leakage in deep learning studies of translational EEG</b> <br>
+<span style="font-size: 0.9em;">Brookshire, G., Kasper, J., <b>Blauch, N. M.</b>, Wu, Y. C., Glatt, R., Merrill, D. A., Gerrol, S., Yoder, K. J., Quirk, C., & Lucero, C. (2024). <i>Frontiers in Neuroscience</i>, <i>18</i>. <br>
+<a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1373515/full">[HTML]</a>
+<a href="/files/brookshire_frontiers_2024.pdf">[PDF]</a></span>
+</div>
+</div>
 
-<!-- where I was advised by David C. Plaut and Marlene Behrmann. There, my work focused on high-level visual recognition and its topographic organization in the ventral stream, using both computational models and neuroimaging. After, I completed a Postdoctoral Fellowship at Harvard University, working with Talia Konkle in the Vision Sciences Laboratory and Kempner Institute, where I developed a novel approach for foveated perception based on the relationship between non-uniform retinal sensing and the topographic organization of primary visual cortex. -->
+<div style="display: flex; gap: 10px; margin-bottom: 15px;">
+<img src="/images/thesis_arch_pic.png" style="width:150px; height:auto; flex-shrink:0; align-self:flex-start;"/>
+<div>
+<b style="color: #ba0028;">A connectivity-constrained computational account of topographic organization in high-level visual cortex</b> <br>
+<span style="font-size: 0.9em;"><b>Blauch, N. M.</b> (2023). Doctoral dissertation, Carnegie Mellon University. <br>
+<a href="https://drive.google.com/file/d/1IQHRDlrYtlQsluxUe8Ggido9xUAc4Ud9/view?usp=drive_link">[PDF]</a></span>
+</div>
+</div>
 
-<!-- Updates coming soon.  -->
+<div style="display: flex; gap: 10px; margin-bottom: 15px;">
+<img src="/images/VSS2021_pic.png" style="width:150px; height:auto; flex-shrink:0; align-self:flex-start;"/>
+<div>
+<b style="color: #ba0028;">A connectivity-constrained computational account of topographic organization in primate high-level visual cortex</b> <br>
+<span style="font-size: 0.9em;"><b>Blauch, N. M.</b>, Behrmann, M., & Plaut, D. C. (2022). <i>Proceedings of the National Academy of Sciences</i>, <i>119</i>(3). <br>
+<a href="https://www.pnas.org/content/119/3/e2112566119">[Paper]</a>
+<a href="https://nblauch.github.io/files/BlauchBehrmannPlaut22PNAS.ConnConstrCompAccTopoOrgHiLevVisCort.pdf">[PDF]</a>
+<a href="https://nblauch.github.io/files/BlauchBehrmannPlaut22PNAS_SI.pdf">[Supplementary Information (PDF)]</a></span>
+</div>
+</div>
 
- <!-- simulations of which can help us both better understand the neurobiological basis of cognition and behavior, and aid neurotechnological interventions, such as predicting the effects of surgical resection or enhancing recovery from damage. -->
+<div style="display: flex; gap: 10px; margin-bottom: 15px;">
+<img src="/images/ccn2019_pic.png" style="width:150px; height:auto; flex-shrink:0; align-self:flex-start;"/>
+<div>
+<b style="color: #ba0028;">Computational insights into human perceptual expertise for familiar and unfamiliar face recognition</b> <br>
+<span style="font-size: 0.9em;"><b>Blauch, N. M.</b>, Behrmann, M., & Plaut, D. C. (2021). <i>Cognition</i>, <i>208</i>, 104341. <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0010027720301608?via%3Dihub">[PDF]</a></span>
+</div>
+</div>
 
+<div style="display: flex; gap: 10px; margin-bottom: 15px;">
+<img src="/images/autism_pic.png" style="width:150px; height:auto; flex-shrink:0; align-self:flex-start;"/>
+<div>
+<b style="color: #ba0028;">Uncharacteristic task-evoked pupillary responses implicate atypical locus coeruleus activity in autism</b> <br>
+<span style="font-size: 0.9em;">Granovetter, M. C., Burlingham, C. S., <b>Blauch, N. M.</b>, Minshaw, N. J., Heeger, D. J., & Behrmann, M. (2020). <i>Journal of Neuroscience</i>. <br>
+<a href="https://www.jneurosci.org/content/early/2020/04/03/JNEUROSCI.2680-19.2020">[Paper]</a></span>
+</div>
+</div>
 
-<!-- A good (albeit somewhat dated) introduction to this modeling work is a talk from Vision Sciences Society 2021 Conference, below. Ongoing work has built a 2-hemisphere version of this model that aims to account for the hemispheric organization of words and faces, among other object domains (see poster from [OHBM 2022](/projects/OHBM2022)).
+<div style="display: flex; gap: 10px; margin-bottom: 15px;">
+<img src="/images/nhb2019_pic.png" style="width:150px; height:auto; flex-shrink:0; align-self:flex-start;"/>
+<div>
+<b style="color: #ba0028;">Representing faces in 3D</b> <br>
+<span style="font-size: 0.9em;"><b>Blauch, N. M.</b>, & Behrmann, M. (2019). <i>Nature Human Behavior</i>. News & Views commentary on a <a href="https://www.nature.com/articles/s41562-019-0625-3">study of 3D human face memory</a> by Zhan et al. <br>
+<a href="/files/blauch_behrmann_nhb_2019.pdf">[PDF]</a></span>
+</div>
+</div>
 
+<div style="display: flex; gap: 10px; margin-bottom: 15px;">
+<img src="/images/cogsci2017_pic.png" style="width:150px; height:auto; flex-shrink:0; align-self:flex-start;"/>
+<div>
+<b style="color: #ba0028;">Functionally localized representations contain distributed information: Insights from simulations of deep convolutional neural networks</b> <br>
+<span style="font-size: 0.9em;"><b>Blauch, N. M.</b>, Aminoff, E., & Tarr, M. J. (2017). <i>39th Annual Proceedings of the Cognitive Science Society</i>. <br>
+<a href="/files/blauch_aminoff_tarr_2017_cogsci.pdf">[PDF]</a></span>
+</div>
+</div>
 
-
-{% include youtubePlayer.html id="MIdtuxfypSA" %}
-
-<!-- <br style="clear:both" /> -->
-<!-- <p align="left">
-  <img width="300" src="/images/Neuroscience_Institute_Black.png" alt="NI" style="margin-right: 20px">
-  <img width="100" src="/images/CMNI_Logo_Red.png" alt="NI2" style="margin-left: 20px">
-  <br>
-</p>  -->
-
-<!-- ---   
-# Publications and Pre-prints
-<img align="left" src="/images/autism_pic.png" width="150" style="margin-right:10px"/> <b>[Uncharacteristic task-evoked pupillary responses implicate atypical locus coeruleus activity in autism](https://www.biorxiv.org/content/10.1101/863928v1.abstract)</b> <br>
-Michael C. Granovetter, Charlie S. Burlingham, <b>Nicholas M. Blauch</b>, Nancy J. Minshaw, David J. Heeger, Marlene Behrmann (2019). <i>bioRXiv</i>.
-
-<br style="clear:both" />
-<br>
-<img align="left" src="/images/ccn2019_pic.png" width="150" style="margin-right:10px"/> <b>[Computational insights into human expertise for familiar and unfamiliar face recognition](/publication/psyarxiv2019)</b> <br>
-<b>Nicholas M. Blauch</b>, Marlene Behrmann, David C. Plaut. (2019). <i>PsyArxiv</i>.
-
-<br style="clear:both" />
-<br>
-<img align="left" src="/images/nhb2019_pic.png" width="150" style="margin-right:10px"/> <b>[Representing Faces in 3D](/publication/nhb2019)</b> <br>
-<b>Nicholas M. Blauch</b>, Marlene Behrmann. (2019)\\
-<i>Nature Human Behavior</i>.
-
-<br style="clear:both" />
-<br>
-<img align="left" src="/images/cogsci2017_pic.png" width="150" style="margin-right:10px"/> <b>[Functionally localized representations contain distributed information: insights from simulations of deep convolutional neural networks](/publication/cogsci2017)</b> <br>
-<b>Nicholas M. Blauch</b>, Elissa Aminoff, Michael J. Tarr. (2017)\\
-<i>39th Annual Proceedings of the Cognitive Science Society</i>, London U.K.
-<br style="clear:both" />
-
----   
-# Conference Presentations
-<img align="left" src="/images/ccn2019_pic.png" width="150" style="margin-right:10px"/> <b>[Visual expertise and the familiar face advantage](/projects/CCN2019)</b> <br>
-<b>Nicholas M. Blauch</b>, Marlene Behrmann, David Plaut.\\
-Poster at <b>Cognitive Computational Neuroscience 2019</b>, Berlin Germany.
-
-<br style="clear:both" />
-<br>
-<img align="left" src="/images/vss2019_pic.png" width="150" style="margin-right:10px"/> <b>[Assessing the similarity of object and scene representations through cross-validated voxel encoding models](/projects/VSS2019)</b> <br>
-<b>Nicholas M. Blauch</b>, Filipe De Avile Belbute Peres, Alireza Chaman Zar, Juhi Farooqui, David Plaut, Marlene Behrmann. \\
-Poster at <b>Vision Sciences 2019</b>, St. Pete Beach, FL.
-
-<br style="clear:both" />
-<br>
-<img align="left" src="/images/ccn2018_pic.png" width="150" style="margin-right:10px"/> <b>[Task and stimulus normalization effects in face perception: an fMRI study](/projects/CCN2018)</b> <br>
-<b>Nicholas M. Blauch</b>, Rosemary A. Cowell.\\
-Poster at <b>Cognitive Computational Neuroscience 2018</b>, Philadelphia, PA.
-
-<br style="clear:both" />
-<br>
-<img align="left" src="/images/cogsci2017_pic.png" width="150" style="margin-right:10px"/> <b>[Functionally localized representations contain distributed information](/talks/cogsci2017)</b> <br>
-<b>Nicholas M. Blauch</b>, Elissa Aminoff, Michael J. Tarr.\\
-Talk at <b>Cognitive Science 2017</b>, London, U.K.
-
-<br style="clear:both" /> -->
----   
+---
 <br>
 <p align="center">
   <img width="300" src="/images/brain.png" alt="Me" style="margin-right: 20px">
@@ -100,70 +155,3 @@ Talk at <b>Cognitive Science 2017</b>, London, U.K.
   <br>
   <em>Some pretty but uninformative pictures of me</em>
 </p>
-<br style="clear:both" />
-
-
-<!-- ### Recent publications
-- Blauch N, Behrmann M. (2019). Representing Faces in 3D. Nature Human Behavior.
-- Blauch N, Aminoff E, Tarr MJ. (2017). Functionally localized representations contain distributed information: insight from simulations of deep convolutional neural networks. 39th Annual Proceedings of the Cognitive Science Society, London U.K.
-
-### Recent conference abstracts
-- Blauch, N., Behrmann M., Plaut, D.C. (2019). Visual Expertise and the Familiar Face Advantage. Third Annual Cognitive
-Computational Neuroscience Conference, 2019. Berlin, Germany.
-- Blauch, N., De Avila Belbute Peres, F., Faroqui, J., Chaman Zar, A., Plaut, D., Behrmann, M. (2019). Assessing the
-Similarity of Cortical Object and Scene Perception with Cross-Validated Voxel-Encoding Models. Vision Sciences Society
-Annual Meeting. St. Pete Beach, FL.
-- Blauch, N., Cowell, R.A. (2018). Task Demands and Stimulus Normalization in Face Perception: an fMRI Study. Second
-Annual Cognitive Computational Neuroscience Conference, 2018. Philadelphia, PA.
-- Blauch, N., Aminoff, E., Tarr, M.J. (2017). Understanding Cortical Face Selectivity. First Annual Cognitive Computational
-Neuroscience Conference, 2017. New York, NY. -->
-
-<!-- ### Bio
-I did my undergraduate at the University of Massachusetts, Amherst, where I developed an [individual concentration](https://www.umass.edu/bdic/aboutus) in Cognitive Computational Neuroscience and minored in Physics. As an undergrad, I worked with Dave Huber on the nROUSE model of visual priming, and developed a behavioral experiment in which participants "navigated" along trajectories in a 2D isoluminant color space. I was also lucky to spend the summer after my sophomore year studying visual masking and crowding with Denis Pelli at NYU, and the following summer working on deep network simulations with Michael Tarr at CMU. After graduation, I spent a year working as a lab manager and research associate in Rosie Cowell's computational Memory and Perception Lab, learning the ins and outs of fMRI data analysis. I then returned to CMU to begin a Ph.D in Neural Computation.   -->
-
-<!-- <div id="images" align="center">
-    <img src="/images/cnbc.png" width="45%">
-
-    <img src="/images/CMU_Logo_Horiz_Red.png" width="45%">
-</div>​ -->
-
-<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons.
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
