@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Sr. Research Scientist at NVIDIA, working with the Isaac Lab and Dex teams on efficient perception for training robots in simulation, taking inspiration from the human brain and visual system. I received my Ph.D. in Neural Computation from Carnegie Mellon University, and did postdoctoral research in the Harvard Vision Sciences Lab, where my research on human foveated vision led me into my current research in robotics. I believe neuroscience has a lot to learn about from AI and robotics, and vice versa. I'm working on both sides of the problem. 
+I am a Sr. Research Scientist at NVIDIA, working with the Isaac Lab and Dex teams on efficient perception for training robots in simulation, taking inspiration from the human brain and visual system. I received my Ph.D. in Neural Computation from Carnegie Mellon University, and did postdoctoral research in the Harvard Vision Sciences Lab, where my research on human foveated vision led me into my current research in robotics. I believe neuroscience has a lot to learn from AI and robotics, and vice versa.
 
 ## Publications
 
